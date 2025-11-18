@@ -1,3 +1,5 @@
+*WePink
+
 Tema: O projeto tem como objetivo o desenvolvimento de um site de vendas online para a marca WePink, uma empresa do segmento de cosméticos e maquiagens.Temos como principal objetivo criar um site funcional e atrativo que represente a identidade da marca WePink, permitindo o cadastro de clientes e a simulação de compras online.
 
 Introdução: O presente projeto tem como finalidade o desenvolvimento de um site para a marca WePink, utilizando as linguagens PHP, HTML e CSS, e o formato JSON como meio de armazenamento de dados.
