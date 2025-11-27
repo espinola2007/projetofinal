@@ -1,9 +1,0 @@
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff0f5; }
-header { background: #ff69b4; color: white; padding: 15px; text-align: center; }
-nav a { color: white; margin: 0 10px; text-decoration: none; }
-main { padding: 20px; }
-.produtos { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
-.produto { background: white; border: 1px solid #ddd; padding: 15px; width: 200px; text-align: center; }
-.btn { background: #ff69b4; color: white; padding: 8px 15px; border: none; text-decoration: none; cursor: pointer; }
-.btn:hover { background: #ff1493; }
-footer { background: #ff69b4; color: white; text-align: center; padding: 10px; }
