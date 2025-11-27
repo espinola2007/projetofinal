@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Base de Concreto",
+        "preco": 199.99,
+        "descricao": "Base de alta fixação com acabamento super resistente, ideal para quem deseja uma cobertura REALMENTE pesada.",
+        "imagem": "img\/base.png"
+    },
+    {
+        "id": 2,
+        "nome": "Body Splash de Vômito",
+        "preco": 79.99,
+        "descricao": "Fragrancia ousada, feita para quem não tem medo de chamar atenção por onde passa.",
+        "imagem": "img\/bodysplash.png"
+    },
+    {
+        "id": 3,
+        "nome": "Esfoliante de Brita",
+        "preco": 89.99,
+        "descricao": "Esfoliante de textura granulada extrema, ideal para remover todas as impurezas e pedaços da pele.",
+        "imagem": "img\/esfoliante.png"
+    }
+]
