@@ -8,9 +8,6 @@
   <p>Venha gastar seu dinheiro com produtos que nunca vão chegar na sua casa!</p>
   <a href="produtos.php" class="btn">Ver Produtos</a>
 </section>
-  
-
-
 
 <div class='grid'>
 
